@@ -370,7 +370,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mapW: 5
   mapH: 5
-  chunckS: 5
+  chunckS: 6
   tileSprites:
   - {fileID: 10917, guid: 0000000000000000f000000000000000, type: 0}
   - {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
